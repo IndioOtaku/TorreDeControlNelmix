@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\bin\Debug\net7.0\TorreDeControl.Core.Application.deps.json
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\bin\Debug\net7.0\TorreDeControl.Core.Application.dll
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\bin\Debug\net7.0\TorreDeControl.Core.Application.pdb
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\obj\Debug\net7.0\TorreDeControl.Core.Application.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\obj\Debug\net7.0\TorreDeControl.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\obj\Debug\net7.0\TorreDeControl.Core.Application.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\obj\Debug\net7.0\TorreDeControl.Core.Application.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\obj\Debug\net7.0\TorreDeControl.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\obj\Debug\net7.0\TorreDeControl.Core.Application.dll
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\obj\Debug\net7.0\refint\TorreDeControl.Core.Application.dll
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\obj\Debug\net7.0\TorreDeControl.Core.Application.pdb
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\obj\Debug\net7.0\ref\TorreDeControl.Core.Application.dll
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\bin\Debug\net7.0\TorreDeControl.Core.Domain.dll
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\bin\Debug\net7.0\TorreDeControl.Core.Domain.pdb
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Application\obj\Debug\net7.0\TorreDeControl.Core.Application.csproj.CopyComplete

@@ -1,0 +1,22 @@
+Base de datos: Aeropuerto LasAmerica
+
+Tabla duras
+- avion
+	propiedades del avionsito
+		- idAvion
+		- nombreAvion
+		- hora de salida
+		- hora de llegada
+		- Aeropuerto de salida
+		- Aeropuerto de llegada
+		- límite pasajeros
+		- peso límite
+		- estado del avión (1 sería aterrizó, 2 sería sigue en vuelo, 3 sería aún no sale del aeropuerto)
+		- FKaeropuerto
+- pasajero
+	propiedades del pasajero
+		- idPasajero
+		- nombre pasajero
+		- peso pasajero
+		- FKavion
+- aeropuerto

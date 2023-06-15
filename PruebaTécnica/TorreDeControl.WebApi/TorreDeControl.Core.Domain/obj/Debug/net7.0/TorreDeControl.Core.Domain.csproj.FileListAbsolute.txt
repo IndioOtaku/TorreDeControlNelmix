@@ -1,0 +1,12 @@
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\obj\Debug\net7.0\TorreDeControl.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\obj\Debug\net7.0\TorreDeControl.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\obj\Debug\net7.0\TorreDeControl.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\obj\Debug\net7.0\TorreDeControl.Core.Domain.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\obj\Debug\net7.0\TorreDeControl.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\bin\Debug\net7.0\TorreDeControl.Core.Domain.deps.json
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\bin\Debug\net7.0\TorreDeControl.Core.Domain.dll
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\bin\Debug\net7.0\TorreDeControl.Core.Domain.pdb
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\obj\Debug\net7.0\TorreDeControl.Core.Domain.dll
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\obj\Debug\net7.0\refint\TorreDeControl.Core.Domain.dll
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\obj\Debug\net7.0\TorreDeControl.Core.Domain.pdb
+C:\Users\rodri\OneDrive\Desktop\ITLA\Pasantía\PruebaTécnica\TorreDeControl.WebApi\TorreDeControl.Core.Domain\obj\Debug\net7.0\ref\TorreDeControl.Core.Domain.dll

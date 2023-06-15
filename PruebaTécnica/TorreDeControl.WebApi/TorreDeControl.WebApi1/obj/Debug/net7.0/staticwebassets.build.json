@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KXsd5B3D2l+Lv6naGcKLKg/GM0XBdO8jCUPRJHwtDJM=",
+  "Source": "TorreDeControl.WebApi",
+  "BasePath": "_content/TorreDeControl.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
